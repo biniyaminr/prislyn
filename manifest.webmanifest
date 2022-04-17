@@ -1,0 +1,31 @@
+{
+  "short_name": "Prislyn Consultancy Pte Ltd",
+  "name": "Prislyn Consultancy Pte Ltd",
+  "description": "",
+  "icons": [
+    {
+      "src": "/site-icon?device=android&size=192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/site-icon?device=android&size=192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/site-icon?device=android&size=512",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "https://www.prislyn.com/?src=g-icon",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
